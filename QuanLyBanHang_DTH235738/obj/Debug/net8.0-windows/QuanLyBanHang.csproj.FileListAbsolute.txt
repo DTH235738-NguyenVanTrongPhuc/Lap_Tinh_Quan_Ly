@@ -1,0 +1,278 @@
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.csproj.AssemblyReference.cache
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.csproj.GenerateResource.cache
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.GeneratedMSBuildEditorConfig.editorconfig
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.AssemblyInfoInputs.cache
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.AssemblyInfo.cs
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.csproj.CoreCompileInputs.cache
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\QuanLyBanHang.exe
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\QuanLyBanHang.dll.config
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\QuanLyBanHang.deps.json
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\QuanLyBanHang.runtimeconfig.json
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\QuanLyBanHang.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\QuanLyBanHang.pdb
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Humanizer.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\Net451.Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\System.Text.Json.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBa.0E1441E5.Up2Date
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\refint\QuanLyBanHang.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.pdb
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.genruntimeconfig.cache
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\ref\QuanLyBanHang.dll
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.Forms.frmHangSanXuat.resources
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.Forms.frmLoaiSanPham.resources
+E:\.File hoc tap\3\HK2\LTQL\BaiTH\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.sourcelink.json
+E:\QuanLyBanHang (1)\obj\Debug\net8.0-windows\QuanLyBanHang.dll
+E:\QuanLyBanHang (1)\obj\Debug\net8.0-windows\refint\QuanLyBanHang.dll
+E:\QuanLyBanHang (1)\obj\Debug\net8.0-windows\QuanLyBanHang.pdb
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\QuanLyBanHang.exe
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\QuanLyBanHang.dll.config
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\QuanLyBanHang.deps.json
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\QuanLyBanHang.runtimeconfig.json
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\QuanLyBanHang.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\QuanLyBanHang.pdb
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Humanizer.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\QuanLyBanHang (1)\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\QuanLyBanHang (1)\obj\Debug\net8.0-windows\QuanLyBanHang.csproj.AssemblyReference.cache
+E:\QuanLyBanHang (1)\obj\Debug\net8.0-windows\QuanLyBanHang.Forms.frmHangSanXuat.resources
+E:\QuanLyBanHang (1)\obj\Debug\net8.0-windows\QuanLyBanHang.Forms.frmLoaiSanPham.resources
+E:\QuanLyBanHang (1)\obj\Debug\net8.0-windows\QuanLyBanHang.csproj.GenerateResource.cache
+E:\QuanLyBanHang (1)\obj\Debug\net8.0-windows\QuanLyBanHang.GeneratedMSBuildEditorConfig.editorconfig
+E:\QuanLyBanHang (1)\obj\Debug\net8.0-windows\QuanLyBanHang.AssemblyInfoInputs.cache
+E:\QuanLyBanHang (1)\obj\Debug\net8.0-windows\QuanLyBanHang.AssemblyInfo.cs
+E:\QuanLyBanHang (1)\obj\Debug\net8.0-windows\QuanLyBanHang.csproj.CoreCompileInputs.cache
+E:\QuanLyBanHang (1)\obj\Debug\net8.0-windows\QuanLyBa.0E1441E5.Up2Date
+E:\QuanLyBanHang (1)\obj\Debug\net8.0-windows\QuanLyBanHang.genruntimeconfig.cache
+E:\QuanLyBanHang (1)\obj\Debug\net8.0-windows\ref\QuanLyBanHang.dll
