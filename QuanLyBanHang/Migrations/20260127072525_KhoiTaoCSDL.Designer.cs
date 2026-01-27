@@ -12,7 +12,7 @@ using QuanLyBanHang.Data;
 namespace QuanLyBanHang.Migrations
 {
     [DbContext(typeof(QLBHDbContext))]
-    [Migration("20260120075721_KhoiTaoCSDL")]
+    [Migration("20260127072525_KhoiTaoCSDL")]
     partial class KhoiTaoCSDL
     {
         /// <inheritdoc />
