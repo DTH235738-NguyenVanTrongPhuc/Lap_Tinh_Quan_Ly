@@ -71,7 +71,7 @@ namespace QuanLyBanHang.Forms
                 }
                 else
                 {
-                    HangSanXuat lsp = context.HangSanXuat.Find(id);
+                    HangSanXuat? lsp = context.HangSanXuat.Find(id);
                     if (lsp != null)
                     {
                         lsp.TenHangSanXuat = txtTenHangSanXuat.Text;
@@ -88,7 +88,7 @@ namespace QuanLyBanHang.Forms
             if (MessageBox.Show("Xác nhận xóa loại sản phẩm?", "Xóa", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 id = Convert.ToInt32(dataGridView.CurrentRow.Cells["ID"].Value.ToString());
-                HangSanXuat lsp = context.HangSanXuat.Find(id);
+                HangSanXuat? lsp = context.HangSanXuat.Find(id);
                 if (lsp != null)
                 {
                     context.HangSanXuat.Remove(lsp);

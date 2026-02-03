@@ -72,7 +72,7 @@ namespace QuanLyBanHang.Forms
                 }
                 else
                 {
-                    LoaiSanPham lsp = context.LoaiSanPham.Find(id);
+                    LoaiSanPham? lsp = context.LoaiSanPham.Find(id);
                     if (lsp != null)
                     {
                         lsp.TenLoai = txtTenLoai.Text;
@@ -89,7 +89,7 @@ namespace QuanLyBanHang.Forms
             if (MessageBox.Show("Xác nhận xóa loại sản phẩm?", "Xóa", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 id = Convert.ToInt32(dataGridView.CurrentRow.Cells["ID"].Value.ToString());
-                LoaiSanPham lsp = context.LoaiSanPham.Find(id);
+                LoaiSanPham? lsp = context.LoaiSanPham.Find(id);
                 if (lsp != null)
                 {
                     context.LoaiSanPham.Remove(lsp);
@@ -106,7 +106,7 @@ namespace QuanLyBanHang.Forms
 
         private void btnThoat_Click(object sender, EventArgs e)
         {
-            Close();
+            this.Close();
         }
     }
 }
