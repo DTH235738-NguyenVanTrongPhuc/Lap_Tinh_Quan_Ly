@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace QuanLyBanHang.Data.Entity
 {
-    internal class HangSanXuat
+    public class HangSanXuat
     {
         public int ID { get; set; }
         public string? TenHangSanXuat {  get; set; }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace QuanLyBanHang.Data.Entity
 {
-    internal class KhachHang
+    public class KhachHang
     {
         public int ID { get; set; }
         public string? HoVaTen { get; set; }

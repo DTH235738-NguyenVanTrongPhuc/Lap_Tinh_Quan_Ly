@@ -60,7 +60,7 @@
             TenSanPham = new DataGridViewTextBoxColumn();
             SoLuong = new DataGridViewTextBoxColumn();
             DonGia = new DataGridViewTextBoxColumn();
-            Column7 = new DataGridViewImageColumn();
+            HinhAnh = new DataGridViewImageColumn();
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)picHinhAnh).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numDonGia).BeginInit();
@@ -245,7 +245,6 @@
             // cboLoaiSanPham
             // 
             cboLoaiSanPham.FormattingEnabled = true;
-            cboLoaiSanPham.Items.AddRange(new object[] { "Điện Thoại" });
             cboLoaiSanPham.Location = new Point(152, 35);
             cboLoaiSanPham.Name = "cboLoaiSanPham";
             cboLoaiSanPham.Size = new Size(151, 28);
@@ -254,7 +253,7 @@
             // cboHangSanXuat
             // 
             cboHangSanXuat.FormattingEnabled = true;
-            cboHangSanXuat.Items.AddRange(new object[] { "Apple" });
+            cboHangSanXuat.Items.AddRange(new object[] { "" });
             cboHangSanXuat.Location = new Point(152, 76);
             cboHangSanXuat.Name = "cboHangSanXuat";
             cboHangSanXuat.Size = new Size(151, 28);
@@ -330,7 +329,7 @@
             dataGridView.AllowUserToDeleteRows = false;
             dataGridView.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dataGridView.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView.Columns.AddRange(new DataGridViewColumn[] { Column1, TenLoai, TenHangSanXuat, TenSanPham, SoLuong, DonGia, Column7 });
+            dataGridView.Columns.AddRange(new DataGridViewColumn[] { Column1, TenLoai, TenHangSanXuat, TenSanPham, SoLuong, DonGia, HinhAnh });
             dataGridView.Dock = DockStyle.Fill;
             dataGridView.Location = new Point(3, 23);
             dataGridView.MultiSelect = false;
@@ -341,6 +340,7 @@
             // 
             // Column1
             // 
+            Column1.DataPropertyName = "ID";
             Column1.HeaderText = "ID";
             Column1.MinimumWidth = 6;
             Column1.Name = "Column1";
@@ -380,14 +380,14 @@
             DonGia.MinimumWidth = 6;
             DonGia.Name = "DonGia";
             // 
-            // Column7
+            // HinhAnh
             // 
-            Column7.DataPropertyName = "HinhAnh";
-            Column7.HeaderText = "Hình ảnh";
-            Column7.MinimumWidth = 6;
-            Column7.Name = "Column7";
-            Column7.Resizable = DataGridViewTriState.True;
-            Column7.SortMode = DataGridViewColumnSortMode.Automatic;
+            HinhAnh.DataPropertyName = "None";
+            HinhAnh.HeaderText = "Hình ảnh";
+            HinhAnh.MinimumWidth = 6;
+            HinhAnh.Name = "HinhAnh";
+            HinhAnh.Resizable = DataGridViewTriState.True;
+            HinhAnh.SortMode = DataGridViewColumnSortMode.Automatic;
             // 
             // frmSanPham
             // 
@@ -436,13 +436,13 @@
         private Button btnThem;
         private GroupBox groupBox2;
         private DataGridView dataGridView;
+        private TextBox txtMoTa;
         private DataGridViewTextBoxColumn Column1;
         private DataGridViewTextBoxColumn TenLoai;
         private DataGridViewTextBoxColumn TenHangSanXuat;
         private DataGridViewTextBoxColumn TenSanPham;
         private DataGridViewTextBoxColumn SoLuong;
         private DataGridViewTextBoxColumn DonGia;
-        private DataGridViewImageColumn Column7;
-        private TextBox txtMoTa;
+        private DataGridViewImageColumn HinhAnh;
     }
 }

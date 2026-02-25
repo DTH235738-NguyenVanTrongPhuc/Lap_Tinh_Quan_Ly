@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace QuanLyBanHang.Data
 {
-    internal class QLBHDbContext : DbContext
+    public class QLBHDbContext : DbContext
     {
         public DbSet<LoaiSanPham> LoaiSanPham { get; set; }
         public DbSet<HangSanXuat> HangSanXuat { get; set; }

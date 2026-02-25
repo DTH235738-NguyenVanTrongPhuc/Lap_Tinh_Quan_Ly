@@ -24,6 +24,8 @@ using QuanLyBanHang.Them;
         public frmSanPham()
         {
             InitializeComponent();
+            this.Load += frmSanPham_Load;
+            dataGridView.CellFormatting += dataGridView_CellFormatting; // THÊM DÒNG NÀY
         }
 
 
@@ -58,7 +60,7 @@ using QuanLyBanHang.Them;
         {
             cboHangSanXuat.DataSource = context.HangSanXuat.ToList();
             cboHangSanXuat.ValueMember = "ID";
-            cboHangSanXuat.DisplayMember = "TenLoai";
+            cboHangSanXuat.DisplayMember = "TenHangSanXuat";
         }
 
         private void frmSanPham_Load(object sender, EventArgs e)
@@ -86,7 +88,7 @@ using QuanLyBanHang.Them;
             cboLoaiSanPham.DataBindings.Add("SelectedValue", bindingSource, "LoaiSanPhamID", false, DataSourceUpdateMode.Never);
 
             cboHangSanXuat.DataBindings.Clear();
-            cboHangSanXuat.DataBindings.Add("SelectedValue", bindingSource, "HangSanXuat", false, DataSourceUpdateMode.Never);
+            cboHangSanXuat.DataBindings.Add("SelectedValue", bindingSource, "HangSanXuatID", false, DataSourceUpdateMode.Never);
             // 
             txtTenSanPham.DataBindings.Clear();
             txtTenSanPham.DataBindings.Add("Text", bindingSource, "TenSanPham", false, DataSourceUpdateMode.Never);
@@ -113,9 +115,21 @@ using QuanLyBanHang.Them;
         {
             if (dataGridView.Columns[e.ColumnIndex].Name == "HinhAnh")
             {
-                Image image = Image.FromFile(Path.Combine(imagesFolder, e.Value.ToString()));
-                image = new Bitmap(image, 24, 24);
-                e.Value = image;
+                var row = dataGridView.Rows[e.RowIndex].DataBoundItem as DanhSachSanPham;
+
+                if (row != null && !string.IsNullOrEmpty(row.HinhAnh))
+                {
+                    string filePath = Path.Combine(imagesFolder, row.HinhAnh);
+
+                    if (File.Exists(filePath))
+                    {
+                        using (FileStream fs = new FileStream(filePath, FileMode.Open, FileAccess.Read))
+                        {
+                            Image img = Image.FromStream(fs);
+                            e.Value = new Bitmap(img, 24, 24);
+                        }
+                    }
+                }
             }
         }
 
@@ -184,7 +198,6 @@ using QuanLyBanHang.Them;
                     sp.SoLuong = (int)numSoLuong.Value;
 
                     context.SanPham.Add(sp);
-                    context.SaveChanges();
                     context.SaveChanges();
                 }
                 else
