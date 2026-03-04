@@ -87,6 +87,7 @@
             btnXuat.TabIndex = 9;
             btnXuat.Text = "Xuất..";
             btnXuat.UseVisualStyleBackColor = true;
+            btnXuat.Click += btnXuat_Click;
             // 
             // btnNhap
             // 
@@ -96,6 +97,7 @@
             btnNhap.TabIndex = 6;
             btnNhap.Text = "Nhập..";
             btnNhap.UseVisualStyleBackColor = true;
+            btnNhap.Click += btnNhap_Click;
             // 
             // btnTimKiem
             // 
@@ -114,7 +116,7 @@
             btnThoat.TabIndex = 6;
             btnThoat.Text = "Thoát";
             btnThoat.UseVisualStyleBackColor = true;
-            btnThoat.Click += this.btnThoat_Click;
+            btnThoat.Click += btnThoat_Click;
             // 
             // btnXoa
             // 

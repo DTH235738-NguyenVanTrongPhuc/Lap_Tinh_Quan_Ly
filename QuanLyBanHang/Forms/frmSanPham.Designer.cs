@@ -54,7 +54,7 @@
             label1 = new Label();
             groupBox2 = new GroupBox();
             dataGridView = new DataGridView();
-            Column1 = new DataGridViewTextBoxColumn();
+            ID = new DataGridViewTextBoxColumn();
             TenLoai = new DataGridViewTextBoxColumn();
             TenHangSanXuat = new DataGridViewTextBoxColumn();
             TenSanPham = new DataGridViewTextBoxColumn();
@@ -116,6 +116,7 @@
             btnXuat.TabIndex = 22;
             btnXuat.Text = "Xuất..";
             btnXuat.UseVisualStyleBackColor = true;
+            btnXuat.Click += btnXuat_Click;
             // 
             // btnNhap
             // 
@@ -125,10 +126,11 @@
             btnNhap.TabIndex = 21;
             btnNhap.Text = "Nhập..";
             btnNhap.UseVisualStyleBackColor = true;
+            btnNhap.Click += btnNhap_Click;
             // 
             // btnTimKiem
             // 
-            btnTimKiem.Location = new Point(752, 214);
+            btnTimKiem.Location = new Point(752, 216);
             btnTimKiem.Name = "btnTimKiem";
             btnTimKiem.Size = new Size(94, 29);
             btnTimKiem.TabIndex = 20;
@@ -329,26 +331,28 @@
             dataGridView.AllowUserToDeleteRows = false;
             dataGridView.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dataGridView.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView.Columns.AddRange(new DataGridViewColumn[] { Column1, TenLoai, TenHangSanXuat, TenSanPham, SoLuong, DonGia, HinhAnh });
+            dataGridView.Columns.AddRange(new DataGridViewColumn[] { ID, TenLoai, TenHangSanXuat, TenSanPham, SoLuong, DonGia, HinhAnh });
             dataGridView.Dock = DockStyle.Fill;
             dataGridView.Location = new Point(3, 23);
             dataGridView.MultiSelect = false;
             dataGridView.Name = "dataGridView";
             dataGridView.RowHeadersWidth = 51;
             dataGridView.Size = new Size(1192, 224);
-            dataGridView.TabIndex = 2;
+            dataGridView.TabIndex = 0;
+            dataGridView.CellContentClick += dataGridView_CellContentClick;
+            dataGridView.CellFormatting += dataGridView_CellFormatting_1;
             // 
-            // Column1
+            // ID
             // 
-            Column1.DataPropertyName = "ID";
-            Column1.HeaderText = "ID";
-            Column1.MinimumWidth = 6;
-            Column1.Name = "Column1";
+            ID.DataPropertyName = "ID";
+            ID.HeaderText = "ID";
+            ID.MinimumWidth = 6;
+            ID.Name = "ID";
             // 
             // TenLoai
             // 
             TenLoai.DataPropertyName = "TenLoai";
-            TenLoai.HeaderText = "Phân Loại";
+            TenLoai.HeaderText = "Phân loại";
             TenLoai.MinimumWidth = 6;
             TenLoai.Name = "TenLoai";
             // 
@@ -362,14 +366,14 @@
             // TenSanPham
             // 
             TenSanPham.DataPropertyName = "TenSanPham";
-            TenSanPham.HeaderText = "Tên Sản Phẩm";
+            TenSanPham.HeaderText = "Tên sản phẩm";
             TenSanPham.MinimumWidth = 6;
             TenSanPham.Name = "TenSanPham";
             // 
             // SoLuong
             // 
             SoLuong.DataPropertyName = "SoLuong";
-            SoLuong.HeaderText = "Số lượng ";
+            SoLuong.HeaderText = "Số lượng";
             SoLuong.MinimumWidth = 6;
             SoLuong.Name = "SoLuong";
             // 
@@ -382,12 +386,10 @@
             // 
             // HinhAnh
             // 
-            HinhAnh.DataPropertyName = "None";
+            HinhAnh.DataPropertyName = "HinhAnh";
             HinhAnh.HeaderText = "Hình ảnh";
             HinhAnh.MinimumWidth = 6;
             HinhAnh.Name = "HinhAnh";
-            HinhAnh.Resizable = DataGridViewTriState.True;
-            HinhAnh.SortMode = DataGridViewColumnSortMode.Automatic;
             // 
             // frmSanPham
             // 
@@ -435,9 +437,9 @@
         private Button btnSua;
         private Button btnThem;
         private GroupBox groupBox2;
-        private DataGridView dataGridView;
         private TextBox txtMoTa;
-        private DataGridViewTextBoxColumn Column1;
+        private DataGridView dataGridView;
+        private DataGridViewTextBoxColumn ID;
         private DataGridViewTextBoxColumn TenLoai;
         private DataGridViewTextBoxColumn TenHangSanXuat;
         private DataGridViewTextBoxColumn TenSanPham;

@@ -46,6 +46,7 @@
             btnThoat = new Button();
             btnTimKiem = new Button();
             btnXuat = new Button();
+            btnnhap = new Button();
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView).BeginInit();
             SuspendLayout();
@@ -200,12 +201,24 @@
             btnXuat.TabIndex = 7;
             btnXuat.Text = "Xuất Excel";
             btnXuat.UseVisualStyleBackColor = true;
+            btnXuat.Click += btnXuat_Click;
+            // 
+            // btnnhap
+            // 
+            btnnhap.Location = new Point(890, 352);
+            btnnhap.Name = "btnnhap";
+            btnnhap.Size = new Size(109, 29);
+            btnnhap.TabIndex = 8;
+            btnnhap.Text = "Nhập Excel";
+            btnnhap.UseVisualStyleBackColor = true;
+            btnnhap.Click += btnnhap_Click;
             // 
             // HoaDon
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1231, 431);
+            Controls.Add(btnnhap);
             Controls.Add(btnXuat);
             Controls.Add(btnTimKiem);
             Controls.Add(btnThoat);
@@ -243,5 +256,6 @@
         private DataGridViewTextBoxColumn NgayLap;
         private DataGridViewTextBoxColumn TongTienHoaDon;
         private DataGridViewLinkColumn XemChiTiet;
+        private Button btnnhap;
     }
 }

@@ -30,6 +30,8 @@
         {
             btnHuyBo = new Button();
             groupBox1 = new GroupBox();
+            btnxuat = new Button();
+            btnnhap = new Button();
             btnThoat = new Button();
             btnLuu = new Button();
             btnXoa = new Button();
@@ -59,6 +61,8 @@
             // 
             // groupBox1
             // 
+            groupBox1.Controls.Add(btnxuat);
+            groupBox1.Controls.Add(btnnhap);
             groupBox1.Controls.Add(btnThoat);
             groupBox1.Controls.Add(btnHuyBo);
             groupBox1.Controls.Add(btnLuu);
@@ -70,10 +74,30 @@
             groupBox1.Controls.Add(label1);
             groupBox1.Location = new Point(0, 12);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(801, 128);
+            groupBox1.Size = new Size(1017, 128);
             groupBox1.TabIndex = 2;
             groupBox1.TabStop = false;
             groupBox1.Text = "Thông tin hãng sản xuất";
+            // 
+            // btnxuat
+            // 
+            btnxuat.Location = new Point(873, 75);
+            btnxuat.Name = "btnxuat";
+            btnxuat.Size = new Size(94, 36);
+            btnxuat.TabIndex = 10;
+            btnxuat.Text = "Xuất";
+            btnxuat.UseVisualStyleBackColor = true;
+            btnxuat.Click += btnxuat_Click;
+            // 
+            // btnnhap
+            // 
+            btnnhap.Location = new Point(773, 75);
+            btnnhap.Name = "btnnhap";
+            btnnhap.Size = new Size(94, 36);
+            btnnhap.TabIndex = 9;
+            btnnhap.Text = "Nhập";
+            btnnhap.UseVisualStyleBackColor = true;
+            btnnhap.Click += btnnhap_Click;
             // 
             // btnThoat
             // 
@@ -156,7 +180,7 @@
             groupBox2.Controls.Add(dataGridView);
             groupBox2.Location = new Point(0, 146);
             groupBox2.Name = "groupBox2";
-            groupBox2.Size = new Size(801, 402);
+            groupBox2.Size = new Size(1017, 402);
             groupBox2.TabIndex = 3;
             groupBox2.TabStop = false;
             groupBox2.Text = "Danh sách hãng sản xuất";
@@ -173,7 +197,7 @@
             dataGridView.MultiSelect = false;
             dataGridView.Name = "dataGridView";
             dataGridView.RowHeadersWidth = 51;
-            dataGridView.Size = new Size(795, 376);
+            dataGridView.Size = new Size(1011, 376);
             dataGridView.TabIndex = 0;
             // 
             // ID
@@ -194,7 +218,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 527);
+            ClientSize = new Size(1018, 527);
             Controls.Add(groupBox1);
             Controls.Add(groupBox2);
             Name = "frmHangSanXuat";
@@ -223,5 +247,7 @@
         private DataGridView dataGridView;
         private DataGridViewTextBoxColumn ID;
         private DataGridViewTextBoxColumn TenHangSanXuat;
+        private Button btnxuat;
+        private Button btnnhap;
     }
 }
