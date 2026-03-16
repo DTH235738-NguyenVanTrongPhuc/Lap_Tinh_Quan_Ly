@@ -299,7 +299,6 @@
             // cboQuyenHan
             // 
             cboQuyenHan.FormattingEnabled = true;
-            cboQuyenHan.Items.AddRange(new object[] { "admin", "user" });
             cboQuyenHan.Location = new Point(532, 102);
             cboQuyenHan.Name = "cboQuyenHan";
             cboQuyenHan.Size = new Size(246, 28);

@@ -26,8 +26,8 @@ namespace QuanLyBanHang.Forms
         private void frmNhanVien_Load(object sender, EventArgs e)
         {
             cboQuyenHan.Items.Clear();
-            cboQuyenHan.Items.Add("admin");
-            cboQuyenHan.Items.Add("user");
+            cboQuyenHan.Items.Add("Admin");
+            //cboQuyenHan.Items.Add("User");
 
             BatTatChucNang(false);
             dataGridView.AutoGenerateColumns = false;
